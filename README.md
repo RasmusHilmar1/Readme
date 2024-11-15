@@ -1,7 +1,7 @@
 # 👋 **Hello, I'm Rasmus H.P. Christensen**  
 🚀 **Passionate Software Engineer in the Making**
 
-I'm a 21-year-old **Software Engineering student** at **Aalborg University**, working towards creating innovative software solutions. I specialize in **object-oriented programming** and have experience with **Java**, **Spring Boot**, **MySQL**, **SQL**,  **Python**, and more. I'm always eager to learn new technologies and tackle exciting challenges.
+I'm a 21-year-old **Software Engineering student** at **Aalborg University**, working towards creating innovative software solutions. I specialize in **object-oriented programming** and **Machine Learning**. I have experience with **Java**, **Spring Boot**, **MySQL**, **SQL**,  **Python**, and more. I'm always eager to learn new technologies and tackle exciting challenges.
 
 ---
 
