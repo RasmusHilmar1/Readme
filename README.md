@@ -38,9 +38,7 @@ I’m looking for a **student position** where I can contribute to innovative pr
 ---
 
 ### 🌐 **More About Me**
-
-- **Gaming**: You might catch me on **Twitch** playing **League of Legends**.
-- **Fitness**: Currently training for my first **ultra-marathon**.
+- **Fitness**: Currently training for my first **ultra-marathon** and doing **Ironmans**.
 - **Goal**: Building a career in **software development** and seeking new challenges.
 
 Feel free to connect or check out my latest projects!
